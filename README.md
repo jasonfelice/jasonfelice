@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="175px"/></a>
+<p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
 
 <h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jason</h1>
 <h3 align="center">I'm a Full Stack Developer and enjoy building websites and apps.</h3>
