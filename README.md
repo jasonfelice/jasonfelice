@@ -1,10 +1,12 @@
+<p align="left">
+<h1 align="center">Hello There, I'm Jason</h1>
+<h3 align="center">I'm a Full Stack Developer and enjoy building websites and apps.</h3>
+</p>
+
 <p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
 
-<h1 align="center">Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jason</h1>
-<h3 align="center">I'm a Full Stack Developer and enjoy building websites and apps.</h3>
-
-
-## 🙋‍♂️ About Me
+<span align="left">
+## 🙋‍♂️ About Me 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -14,10 +16,12 @@
 
 - 📫 Say Hello! **jasonfelice0@gmail.com**
 
+- 🔥 Open for new opportunities.
+</span>
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
