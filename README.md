@@ -5,7 +5,7 @@
 
 <p align="center"><img  src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/></p>
 
-<span align="left">
+
 ## 🙋‍♂️ About Me 
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
@@ -17,7 +17,6 @@
 - 📫 Say Hello! **jasonfelice0@gmail.com**
 
 - 🔥 Open for new opportunities.
-</span>
 
 ## 🚀 Languages and Tools:
 
