@@ -52,7 +52,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/jason-felice-11a5a622b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/jake-felice/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/jasonfelice0"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
